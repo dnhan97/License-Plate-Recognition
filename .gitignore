@@ -1,11 +1,8 @@
-yolov5/
+function/__pycache__
 test_image/
 check_cache/
 /draw_image.py
 /test.py
-/res.jpg
-cache.jpg
-cache_ch.jpg
-edge.jpg
-line.jpg
-crop.jpg
+yolov5/
+yolov5/__pycache__
+__pycache__
